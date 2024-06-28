@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "226706859847",
+    "project_id": "tekmob-p10",
+    "storage_bucket": "tekmob-p10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226706859847:android:274192972d69925662ce62",
+        "android_client_info": {
+          "package_name": "com.tekmob10.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4hBZhTILYBNgBFghCgyW9nzMpPVCyHok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
